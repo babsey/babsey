@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on NEST Desktop
-- 🌱 I’m currently learning how to snap apps
